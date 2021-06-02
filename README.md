@@ -2,7 +2,7 @@
 - 👀 I’m interested in data,apps,games,etc
 - 🌱 I’m currently learning python,flutter...
 - 💞️ I’m looking to collaborate on flutter
-- 📫 How to reach me anoopssjchipli@gmail.com
+- 📫 reach me @anoopssjchipli@gmail.com
 
 <!---
 anoopssjchipli/anoopssjchipli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
