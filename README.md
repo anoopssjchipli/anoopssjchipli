@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anoopssjchipli
+- 👋 Hi, I’m @Anoop Chipli
 - 👀 I’m interested in data,apps,games,etc
 - 🌱 I’m currently learning python,flutter...
 - 💞️ I’m looking to collaborate on flutter
