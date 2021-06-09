@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anoop Chipli
-- 👀 I’m interested in.....ಠ_ಠ
+- 👀 I’m interested in.....0_0
 - 🌱 I’m currently learning python,ML,flutter...
 - 💞️ I’m looking to collaborate on flutter
 - 📫 reach me @anoopssjchipli@gmail.com
