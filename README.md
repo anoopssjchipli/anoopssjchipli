@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Anoop Chipli
+- Software Engineer - Python, Front End, Azure
 - 👀 I’m interested in...🥡🍜🍞
 - 🌱 I’m currently learning python,ML,flutter...🚲🏖🛏
 - 💞️ I’m looking to collaborate on flutter and flask🗺❄
